@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="7">
+
+  <testsuite name="oneclickmoney"
+    errors="0" failures="0" hostname="" id="" package="oneclickmoney" skipped="0"
+    tests="7" time="89.75" timestamp="">
+  
+    <testcase name="page content" classname="oneclickmoney" time="17.93" assertions="25">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Menu button" classname="oneclickmoney" time="10.78" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="button &#34;Оформить заявку&#34;" classname="oneclickmoney" time="14.01" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="button &#34;Оформите заявку через госуслуги и мы увеличим сумму займа на 2000&#34;" classname="oneclickmoney" time="19.32" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Войти в личный кабинет" classname="oneclickmoney" time="8.375" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Как получить займ?" classname="oneclickmoney" time="6.040" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Как погасить займ?" classname="oneclickmoney" time="13.31" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
